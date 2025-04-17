@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan-sai-ch
 - 👀 I’m interested in React/React Native development
-- 🌱 I’m currently learning Swift and brushing other skills
+- 🌱 I’m currently deep-diving into React hooks, learning Swift, Flutter while dusting other skills
 - 💞️ I’m looking to collaborate on projects on different domains
 - 📫 How to reach me: mail me at pavansai.ch@outlook.com  
 - ⚡ Fun fact: Decent at EA FC
