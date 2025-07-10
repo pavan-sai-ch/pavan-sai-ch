@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @pavan-sai-ch
-- 👀 I’m interested in React/React Native development
-- 🌱 I’m currently deep-diving into React hooks, learning Swift, Flutter while dusting other skills
+- 👋 Hi, I’m Pavan Sai
+- 👀 I’m interested in Web and Mobile App development along with Data Analysis and creating dashboards with Tableau and python
+- 🌱 I’m currently deep-diving into React, learning Swift, Flutter while dusting other skills
 - 💞️ I’m looking to collaborate on projects on different domains
 - 📫 How to reach me: mail me at pavansai.ch@outlook.com  
-- ⚡ Fun fact: Decent at EA FC
 
 <!---
 pavan-sai-ch/pavan-sai-ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
