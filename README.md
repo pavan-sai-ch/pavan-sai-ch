@@ -5,7 +5,6 @@ I'm a full-stack and mobile engineer based in Kansas City, MO. I recently comple
 I'm currently open to new opportunities in **React**, **React Native**, **Swift/iOS**, and **AI Engineering** roles across the US.
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=pavan-sai-ch&theme=dark)
 ## 🛠 What I Work With
 
 **Languages**
