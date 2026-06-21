@@ -1,8 +1,6 @@
 # Hi, I'm Pavan 👋
 
-I'm a full-stack and mobile engineer based in Kansas City, MO. I recently completed my M.S. in Computer Science at the University of Central Missouri (GPA 3.8) and I build things across the entire stack — from React and Swift frontends to Node.js backends, REST APIs, cloud infrastructure, and AI-integrated systems.
-
-I'm currently open to new opportunities in **React**, **React Native**, **Swift/iOS**, and **AI Engineering** roles across the US.
+I am a Founding Engineer building a Fintech platform for agentic payments - compliance and security. I have 2 years experience in Full Stack mobile and web development.
 
 ---
 ## 🛠 What I Work With
