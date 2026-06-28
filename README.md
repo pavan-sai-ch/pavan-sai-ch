@@ -1,6 +1,19 @@
 # Hi, I'm Pavan 👋
 
-I am a Founding Engineer building a Fintech platform for agentic payments - compliance and security. I have 2 years experience in Full Stack mobile and web development.
+I am a Founding Engineer building a Fintech platform for agentic payments - compliance and security. I have 2 years experience in Full Stack AI mobile and web development.
+
+---
+## 💼 Experience
+
+### Founding Software Engineer · [Harmoney Financial Technologies](https://inharmoney.xyz)
+`May 2026 – Present` · Remote
+
+First engineer. Chose the stack, architected the system, shipped an **Agentic Financial OS** from a blank repo — full-stack React + Node.js, React Native mobile, Supabase/PostgreSQL, Stripe, Plaid, Auth0. Own the full SDLC: architecture, CI/CD, production monitoring, incident response.
+
+### Software Engineer · [Dhanush Healthcare Systems](https://www.dhanushinfotech.com/)
+`Sep 2022 – Nov 2023` · Hyderabad, India
+
+Built 60+ React/TypeScript components and 150+ REST integrations across two healthcare apps. 16 production releases to App Store + Play Store.
 
 ---
 ## 🛠 What I Work With
@@ -33,11 +46,6 @@ I am a Founding Engineer building a Fintech platform for agentic payments - comp
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**AI / LLM**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
@@ -75,10 +83,6 @@ Predictive ML model analyzing customer behavior patterns to optimize holiday inv
 
 I'm actively looking for my next role. If you're building something interesting, let's talk.
 
-- 🌐 Portfolio: [pavanchilukala.vercel.app](https://pavanchilukala.vercel.app)
+- 🌐 Portfolio: [chilukala.com](https://chilukala.com)
 - 💼 LinkedIn: [linkedin.com/in/pavanchilukala](https://linkedin.com/in/pavanchilukala)
 - 📧 Email: [pavansai.ch@outlook.com](mailto:pavansai.ch@outlook.com)
-
----
-
-> *"The best way to predict the future is to build it."*
