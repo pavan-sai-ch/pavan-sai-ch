@@ -130,7 +130,6 @@ function render(s, theme) {
     { label: 'commits, last year', value: s.commits },
     { label: 'pull requests', value: s.prs },
     { label: 'public repos', value: s.repoCount },
-    { label: 'stars earned', value: s.stars },
   ];
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" role="img" aria-label="GitHub activity for ${esc(USER)}">
