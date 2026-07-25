@@ -109,16 +109,6 @@ Predictive ML model analyzing customer behavior patterns to optimize holiday inv
 
 ---
 
-## 📈 GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" alt="GitHub activity: commits, pull requests, public repositories and stars" width="100%">
-</picture>
-
----
-
 ## 📬 Let's Connect
 
 I'm actively looking for my next role, and open to relocating anywhere in the US. If you're building something interesting, let's talk.
