@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Pavan Sai Chilukala — Founding Engineer, agentic payments infrastructure">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#201712"/>
+      <stop offset="55%" stop-color="#1F1B16"/>
+      <stop offset="100%" stop-color="#2A1C14"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="0.88" cy="0.12" r="0.7">
+      <stop offset="0%" stop-color="#C2683D" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#C2683D" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#EADFCE" fill-opacity="0.07"/>
+    </pattern>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C2683D"/>
+      <stop offset="100%" stop-color="#C2683D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#dots)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- terracotta edge marker -->
+  <rect x="0" y="0" width="6" height="320" fill="#C2683D"/>
+
+  <g font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <!-- eyebrow -->
+    <text x="72" y="86" fill="#C2683D" font-size="15" font-weight="700" letter-spacing="4.5">
+      FOUNDING ENGINEER
+    </text>
+
+    <!-- name -->
+    <text x="70" y="156" fill="#FAF6EF" font-size="62" font-weight="700" letter-spacing="-1.5">
+      Pavan Sai Chilukala
+    </text>
+
+    <line x1="73" y1="184" x2="420" y2="184" stroke="url(#rule)" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- positioning line -->
+    <text x="72" y="222" fill="#EADFCE" font-size="22" font-weight="400">
+      I build payments infrastructure that AI agents can be trusted with.
+    </text>
+
+    <!-- stack line -->
+    <text x="72" y="262" fill="#A79A8A" font-size="15.5" font-weight="400" letter-spacing="0.4">
+      TypeScript · React · Node.js · React Native · Swift · PostgreSQL · AWS
+    </text>
+  </g>
+
+  <!-- decorative node graph: agents -> rail -->
+  <g opacity="0.9">
+    <line x1="965" y1="118" x2="1055" y2="160" stroke="#C2683D" stroke-opacity="0.45" stroke-width="1.5"/>
+    <line x1="965" y1="202" x2="1055" y2="160" stroke="#C2683D" stroke-opacity="0.45" stroke-width="1.5"/>
+    <line x1="978" y1="160" x2="1055" y2="160" stroke="#C2683D" stroke-opacity="0.45" stroke-width="1.5"/>
+    <line x1="1055" y1="160" x2="1128" y2="160" stroke="#C2683D" stroke-width="2"/>
+
+    <circle cx="962" cy="118" r="8" fill="none" stroke="#EADFCE" stroke-opacity="0.55" stroke-width="1.5"/>
+    <circle cx="962" cy="160" r="8" fill="none" stroke="#EADFCE" stroke-opacity="0.55" stroke-width="1.5"/>
+    <circle cx="962" cy="202" r="8" fill="none" stroke="#EADFCE" stroke-opacity="0.55" stroke-width="1.5"/>
+
+    <!-- policy gate -->
+    <rect x="1038" y="143" width="34" height="34" rx="8" fill="#C2683D"/>
+    <path d="M1049 160.5l4.5 4.5 8-8.5" fill="none" stroke="#201712" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="1132" cy="160" r="9" fill="#EADFCE" fill-opacity="0.85"/>
+  </g>
+</svg>
