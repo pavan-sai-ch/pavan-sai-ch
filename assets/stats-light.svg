@@ -11,9 +11,9 @@
     <line x1="28" y1="46" x2="832" y2="46" stroke="url(#rule)" stroke-width="1.5"/>
 
     
-    <text x="149.5" y="82" fill="#1F1B16" font-size="34" font-weight="700" text-anchor="middle" letter-spacing="-0.5">533</text>
+    <text x="149.5" y="82" fill="#1F1B16" font-size="34" font-weight="700" text-anchor="middle" letter-spacing="-0.5">535</text>
     <text x="149.5" y="106" fill="#6B6259" font-size="12.5" text-anchor="middle" letter-spacing="0.3">commits, last year</text>
-    <text x="336.5" y="82" fill="#1F1B16" font-size="34" font-weight="700" text-anchor="middle" letter-spacing="-0.5">56</text>
+    <text x="336.5" y="82" fill="#1F1B16" font-size="34" font-weight="700" text-anchor="middle" letter-spacing="-0.5">1</text>
     <text x="336.5" y="106" fill="#6B6259" font-size="12.5" text-anchor="middle" letter-spacing="0.3">pull requests</text>
     <text x="523.5" y="82" fill="#1F1B16" font-size="34" font-weight="700" text-anchor="middle" letter-spacing="-0.5">17</text>
     <text x="523.5" y="106" fill="#6B6259" font-size="12.5" text-anchor="middle" letter-spacing="0.3">public repos</text>
