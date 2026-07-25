@@ -114,7 +114,7 @@ Predictive ML model analyzing customer behavior patterns to optimize holiday inv
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" alt="GitHub activity and top languages" width="100%">
+  <img src="assets/stats-dark.svg" alt="GitHub activity: commits, pull requests, public repositories and stars" width="100%">
 </picture>
 
 ---
